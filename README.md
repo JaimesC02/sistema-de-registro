@@ -9,3 +9,5 @@ Para ejecutar el sistema, debes poner:
 Sistema de Registro 2
 
 Prueba credenciales
+
+Prueba de credenciales 2
